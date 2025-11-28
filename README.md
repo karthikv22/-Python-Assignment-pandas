@@ -130,5 +130,5 @@ Pull requests are welcome. Please create a new branch before contributing.
 ---
 
 ## 📬 Contact  
-Created by **Asta** — Data Analyst  
+Created by **Karthik** — Data Analyst  
 Feel free to reach out for improvements or suggestions!
